@@ -20,6 +20,7 @@ test/
 ## Download
 
 The dataset can be accessed through the PCBVision.IQ Roboflow workspace.
+https://app.roboflow.com/testguys-workspace/pcbvision-iq/1
 
 Roboflow Project:
 PCBVisionIQ Industrial Defect Dataset
