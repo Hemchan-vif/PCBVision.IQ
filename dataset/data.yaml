@@ -1,1 +1,13 @@
+train: train/images
+val: valid/images
+test: test/images
 
+nc: 6
+
+names:
+  - copper
+  - mousebite
+  - open
+  - pin-hole
+  - short
+  - spur
