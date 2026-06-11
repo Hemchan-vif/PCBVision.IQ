@@ -186,28 +186,6 @@ Key observations include:
 
 These findings indicate that YOLOv11 provides a strong balance between accuracy and efficiency for PCB inspection applications.
 
----
-
-## Repository Structure
-
-```text
-PCBVision.IQ/
-│
-├── dataset/
-│
-├── python/
-│   ├── benchmark_yolov8.py
-│   ├── benchmark_yolov10.py
-│   ├── pcbvisioniq_yolov11_baseline.py
-│   ├── pcbvisioniq_yolov11_optimized.py
-│   └── pcbvisioniq_final_training_pipeline.py
-│
-├── results/
-│
-├── requirements.txt
-│
-└── README.md
-```
 
 ---
 
